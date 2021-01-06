@@ -1,0 +1,1 @@
+DELETE is a DML statement. It deletes a row(s) from a table based on an optional WHERE condition. This is a form of data manipulation

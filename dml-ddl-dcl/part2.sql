@@ -1,0 +1,2 @@
+-- It uses the Data Manipulation Language (DML).
+-- All queries fall under the heading of DML.

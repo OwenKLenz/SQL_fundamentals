@@ -1,0 +1,1 @@
+-- ALTERing tables is part of the DDL because we are still working with the definition of the data or its "Schema"

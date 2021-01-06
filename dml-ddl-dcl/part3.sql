@@ -1,0 +1,1 @@
+-- It uses the Data Definition Language. All CREATE statements come from the DDL.

@@ -1,0 +1,1 @@
+-- \d things isn't SQL code. It's a meta command from the RDBMS PostgreSQL used to display the schema of a table called things.

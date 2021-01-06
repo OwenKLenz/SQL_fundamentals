@@ -1,0 +1,1 @@
+DROP statements are part of the DDL because we are altering the schema of a database (in this case by removing the database entirely).
